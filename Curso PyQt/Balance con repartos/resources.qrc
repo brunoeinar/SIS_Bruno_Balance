@@ -1,0 +1,19 @@
+<!DOCTYPE RCC><RCC version="1.0.0">
+<qresource>
+<file alias="excel.png">images/excel.png</file>
+<file alias="reset.png">images/reset.png</file>
+<file alias="run.png">images/play.png</file>
+<file alias="stream_button.png">images/stream_button.png</file>
+<file alias="extraction_button.png">images/extraction_button.png</file>
+<file alias="rotate_button.png">images/rotate_button.png</file>
+<file alias="add-new-document.png">images/add-new-document.png</file>
+<file alias="Stream.png">images/right-arrow.png</file>
+<file alias="Extraccion.png">images/Extraccion.png</file>
+<file alias="Divisor.png">images/rec-circular-button.png</file>
+<file alias="LogoCenagas.png">images/CenagasLogo.png</file>
+<file alias="Cenagas.png">images/Cenagas.png</file>
+<file alias="export.png">images/export.png</file>
+<file alias="save.png">images/save.png</file>
+<file alias="open.png">images/open.png</file>
+</qresource>
+</RCC>
